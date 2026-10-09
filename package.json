@@ -1,0 +1,8 @@
+{
+  "name": "our-little-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "离线优先的中文家庭农历生日与成长日历",
+  "scripts": { "test": "node --test tests/dates.test.js" },
+  "license": "MIT"
+}

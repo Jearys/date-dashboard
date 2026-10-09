@@ -9,7 +9,8 @@
     shortMonthPolicy: 'last-day',
     people: [
       { id: 'me', name: '我', role: '每一岁，都值得庆祝', birth: { year: 1995, month: 9, day: 18, leap: false } },
-      { id: 'daughter', name: '女儿', role: '慢慢长大，日日可爱', featured: true, birth: { year: 2025, month: 2, day: 13, leap: false } }
+      { id: 'daughter', name: '女儿', role: '慢慢长大，日日可爱', featured: true, birth: { year: 2025, month: 2, day: 13, leap: false } },
+      { id: 'wife', name: '媳妇', role: '每一岁，都值得庆祝', birth: { year: 1995, month: 10, day: 2, leap: false } }
     ]
   };
   if (typeof module === 'object' && module.exports) module.exports = config;
